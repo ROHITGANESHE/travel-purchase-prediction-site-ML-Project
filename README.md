@@ -230,6 +230,6 @@ Data Science | Machine Learning | GenAI Enthusiast
 </p>
 
 <p>
-🔗 GitHub:[ https://github.com/YOUR-USERNAME](https://github.com/ROHITGANESHE/travel-purchase-prediction-site-ML-Project.git)<br>
-🔗 LinkedIn: [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/rohit-ganeshe-rsg030/)
+🔗 GitHub:(https://github.com/ROHITGANESHE/travel-purchase-prediction-site-ML-Project.git)<br>
+🔗 LinkedIn:(https://www.linkedin.com/in/rohit-ganeshe-rsg030/)
 </p>
